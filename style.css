@@ -1,0 +1,27 @@
+body {
+    background-color: #a3c3e3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    margin: 30px auto;
+    text-align: center;
+}
+
+.container {
+    border: 2px solid red;
+    width: 60%;
+    border-radius: 10px;
+    background-color: bisque;
+    margin: 50px auto;
+}
+
+input {
+    padding: 10px;
+}
+
+button {
+    background-color: blue;
+    color: #fff;
+    padding: 10px;
+}
